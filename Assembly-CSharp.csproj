@@ -64,6 +64,10 @@
     <Compile Include="Assets\Scripts\CameraController.cs" />
     <Compile Include="Assets\Scripts\Gallery\BlackOut.cs" />
     <Compile Include="Assets\Scripts\Gallery\GalleryController.cs" />
+    <Compile Include="Assets\Scripts\Gallery\Lock1.cs" />
+    <Compile Include="Assets\Scripts\Gallery\Lock2.cs" />
+    <Compile Include="Assets\Scripts\Gallery\Lock3.cs" />
+    <Compile Include="Assets\Scripts\Gallery\Lock4.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerController.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/Unity 2017/Cats/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
